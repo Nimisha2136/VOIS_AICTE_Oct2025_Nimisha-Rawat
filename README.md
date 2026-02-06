@@ -5,7 +5,7 @@ Airbnb Hotel Booking Analysis
 --------------------------------------------------------------------------------------------------------------------
 Airbnb has revolutionized the hospitality industry by connecting travelers with diverse lodging options worldwide. With its expanding listings and user base, analyzing booking data is essential for hosts to optimize earnings and for Airbnb to improve user experience. This project focuses on studying booking patterns, pricing, guest preferences, and host performance to uncover insights that enhance decision-making and guest satisfaction.
 
-Key Objectives Summary
+🎯Key Objectives Summary
 
 --------------------------------------------------------------------------------------------------------------------
 Identify booking patterns such as peak seasons and lead times
@@ -17,12 +17,12 @@ Understand guest preferences for amenities and services
 Evaluate host performance to uncover best practices and common issues
 
 
-Technology Used
+⚙️Technology Used
 --------------------------------------------------------------------------------------------------------------------
-Programming Languages
+📙Programming Languages
 Python: data analysis, visualization
 
-Libraries
+📘Libraries
 Pandas & NumPy: Data manipulation and preprocessing
 
 Matplotlib & Seaborn: Data visualization
