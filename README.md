@@ -19,10 +19,10 @@ Evaluate host performance to uncover best practices and common issues
 
 ⚙️Technology Used
 --------------------------------------------------------------------------------------------------------------------
-📙Programming Languages
+Programming Languages
 Python: data analysis, visualization
 
-📘Libraries
+Libraries
 Pandas & NumPy: Data manipulation and preprocessing
 
 Matplotlib & Seaborn: Data visualization
